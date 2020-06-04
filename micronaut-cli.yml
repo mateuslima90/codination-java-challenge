@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: challenge.codenation
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
